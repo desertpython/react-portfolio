@@ -1,0 +1,24 @@
+{
+  "name": "react-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desertpython/react-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desertpython/react-portfolio/issues"
+  },
+  "homepage": "https://github.com/desertpython/react-portfolio#readme",
+  "dependencies": {
+    "create-react-app": "^3.4.1",
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0"
+  }
+}
